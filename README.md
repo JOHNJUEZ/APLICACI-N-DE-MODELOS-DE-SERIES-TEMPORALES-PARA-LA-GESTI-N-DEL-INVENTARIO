@@ -70,7 +70,4 @@ El modelo **SARIMA** fue seleccionado como el mejor para predecir la demanda, co
 
 ---
 
-## 👨‍💻 Autor
 
-**John Juez**  
-Maestría en Negocios Internacionales y Ciencia de Datos – UDLA, Ecuador
